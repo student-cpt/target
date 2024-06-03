@@ -1,4 +1,4 @@
 # target
 this is my first repository
 <br/>
-Author sandeep sharma
+Author sandeep(pandit)
